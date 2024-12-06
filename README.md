@@ -1,1 +1,1 @@
-# ProjectWWW
+# Mój projekt strony WWW
